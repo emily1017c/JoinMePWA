@@ -1,4 +1,4 @@
-# JoinMePWA
+# Join Me PWA
 2020 Digital Technology Design graduate project
 
 
