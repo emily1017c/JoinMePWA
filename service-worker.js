@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.cb03198dd0973699a87887cd47c7e8ac.js"
+  "precache-manifest.67f6c5ec69b2b318c23844c57ec332e1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "JoinMe"});
